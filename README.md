@@ -39,7 +39,8 @@ Telecom_X/
 
 El análisis completo ha sido convertido a una visualización interactiva en formato **HTML**. Para visualizarlo:
 
-1. Abre el archivo `index.html` en tu navegador.
+1. Abre el archivo `index.html` en tu navegador o visita directamente el proyecto en línea:
+   - 🌐 **[Ver proyecto en línea](https://jheimydev.github.io/proyecto-telecomx-latam/)**
 2. Explora las secciones del análisis, que incluyen:
    - Gráficos interactivos
    - Insights sobre churn, servicios, y comportamiento de los clientes
@@ -52,24 +53,12 @@ Por ejemplo, dentro del análisis podrás encontrar gráficos como:
 
 ---
 
-## 🏁 Instrucciones para ejecutar el análisis
+## 🏁 Instrucciones para ejecutar el análisis localmente
 
-No es necesario ejecutar un Jupyter Notebook. Para acceder al análisis:
+Si deseas ejecutar el análisis en tu computadora:
 
 1. Asegúrate de tener un navegador actualizado (Chrome, Firefox, Edge, etc.).
-2. Abre el archivo `index.html` haciendo doble clic o arrastrándolo a tu navegador.
-3. Explora el contenido interactivo generado.
-
-Si necesitas correr análisis adicionales, puedes usar el archivo original `.ipynb` (si está disponible) o adaptar el código en otro entorno como JupyterLab.
-
----
-
-## 🚀 Contribuciones
-
-¡Toda mejora es bienvenida! Si deseas colaborar, puedes:
-
-- Crear un `pull request` con tus cambios.
-- Sugerir ideas en los `issues` del proyecto.
-- Aportar nuevos insights o mejoras en las visualizaciones.
-
----
+2. Descarga o clona el repositorio:
+   ```bash
+   git clone https://github.com/jheimydev/proyecto-telecomx-latam.git
+   cd proyecto-telecomx-latam
